@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseNotifications</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="hint_enterUserName">User Name...</string>
+    <string name="password">Password</string>
+    <string name="txt_powered_by">Powered By</string>
+</resources>
